@@ -1,6 +1,5 @@
 <div align="center">
-<h1>Hi 👋, I'm Renzo Zukeram</h1>
-<p>Full-stack developer</p>
+<h1>Renzo Zukeram</h1>
 <h3>💻🧰 Languages and Tools:</h3>
 <p style="position: static;"> 
     <img alt="Java" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
