@@ -31,7 +31,7 @@
  ---
 <div>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzozuk&layout=compact&langs_count=8&theme=chartreuse-dark&title_color=ffffff"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renzozuk&show_icons=true&theme=chartreuse-dark&title_color=ffffff&include_all_commits=true&count_private=false"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renzozuk&show_icons=true&theme=chartreuse-dark&title_color=ffffff&include_all_commits=false&count_private=false"/>
 </div>
 
  <div>
