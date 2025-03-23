@@ -3,7 +3,7 @@
 <h3>💻 My Skill Set 🧰</h3>
 <p style="position: static;"> 
     <img alt="Java" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img alt="Java" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/>
+    <img alt="Kotlin" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/>
     <img alt="Spring" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
     <img alt="mysql" width="45px" height="45px" style="margin: 0 1px 1px 1px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img alt="postgresql" width="45px" height="45px" style="margin: 0 1px 1px 1px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />  
@@ -12,6 +12,7 @@
     <img alt="html" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/>
     <img alt="css" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"/>
     <img alt="javascript" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"/>
+    <img alt="angular" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>
     <img alt="react" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"/>
     <img alt="vuejs" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"/>
     <img alt="figma" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"/>
@@ -30,7 +31,7 @@
     
  ---
 <div>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzozuk&layout=compact&langs_count=8&theme=chartreuse-dark&title_color=ffffff"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzozuk&layout=compact&langs_count=9&theme=chartreuse-dark&title_color=ffffff"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renzozuk&show_icons=true&theme=chartreuse-dark&title_color=ffffff&include_all_commits=false&count_private=false"/>
 </div>
 
