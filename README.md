@@ -12,9 +12,9 @@
     <img alt="html" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/>
     <img alt="css" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"/>
     <img alt="javascript" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"/>
-    <img alt="angular" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>
     <img alt="react" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"/>
     <img alt="vuejs" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"/>
+    <img alt="angular" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>
     <img alt="figma" height="45px" width="45px" style="margin: 0 1px 1px 1px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"/>
 <br>
     <img alt="python" width="45px" height="45px" style="margin: 0 1px 1px 1px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
