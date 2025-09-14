@@ -5,6 +5,13 @@
 </h1>
 
 <section>
+    <h3>👩‍💻 About Me</h3>
+    Hi there! I'm Renzo Zukeram, a passionate developer and researcher in Software Engineering currently based in Natal - RN, Brazil
+</section>
+
+<hr/>
+
+<section>
 
   <h3>💻 My Skill Set</h3>
   <div style="display:flex;">
@@ -28,7 +35,7 @@
 
 <section>
     <h3>🔥 GitHub Stats</h3>
-    <div style="display:wrap;">
+    <div>
         <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=renzozuk&show_icons=true&theme=react&include_all_commits=false&count_private=false"/>
         <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzozuk&layout=compact&langs_count=8&theme=react&title_color=ffffff"/>
         <img height="170rem" src="https://streak-stats.demolab.com/?user=renzozuk&count_private=true&theme=react&border_radius=10"/>
