@@ -5,7 +5,7 @@
 </h1>
 
 <section>
-    <h3>👩‍💻 About Me</h3>
+    <h3>👨🏻‍💻 About Me</h3>
     Hi there! I'm Renzo Zukeram, a passionate developer and researcher in Software Engineering currently based in Natal - RN, Brazil
 </section>
 
