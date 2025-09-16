@@ -1,12 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=renzozuk.renzozuk" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Renzo+Zukeram!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&weight=700&center=true&vCenter=true&width=500&height=70&duration=4000&color=61dafb&lines=Hi+There!+👋;+I'm+Renzo+Zukeram!;" />
 </h1>
 
 <section>
     <h3>👨🏻‍💻 About Me</h3>
-    Hi there! I'm Renzo Zukeram, a passionate developer and researcher in Software Engineering currently based in Natal - RN, Brazil
+
+<p align="left">
+   Hi there! I'm Renzo Zukeram, a passionate developer and researcher in Software Engineering currently based in Natal - RN, Brazil.
+
+   I'm currently an intern at <a href="http://sethas.rn.gov.br" target="_blank">SETHAS-RN</a>, working on web systems for social programs that support low-income communities.
+
+   I am also working on the <a href="https://smlab.imd.ufrn.br/projetos-n/">Smart Geo Layers (SGeoL)</a> project, which is part of the Smart Metropolis initiative.
+  </p>
 </section>
 
 <hr/>
@@ -17,7 +24,8 @@
   <div style="display:flex;">
       <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
-      <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />   
+      <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+      <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
