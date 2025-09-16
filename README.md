@@ -12,7 +12,7 @@
 
    I'm currently an intern at <a href="http://sethas.rn.gov.br" target="_blank">SETHAS-RN</a>, working on web systems for social programs that support low-income communities.
 
-   I am also working on the <a href="https://smlab.imd.ufrn.br/projetos-n/">Smart Geo Layers (SGeoL)</a> project, which is part of the Smart Metropolis initiative.
+   I'm also working as a voluntary on the <a href="https://smlab.imd.ufrn.br/projetos-n/">Smart Geo Layers (SGeoL)</a> project, which is part of the Smart Metropolis initiative.
   </p>
 </section>
 
